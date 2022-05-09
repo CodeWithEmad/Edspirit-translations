@@ -1,0 +1,4 @@
+[[paths]]
+reference = "templates/django.pot"
+l10n = "{locale}/django.po"
+locales = [ "en", "fa", "ar"]
