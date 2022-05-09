@@ -1,0 +1,638 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: support@edspirit.com\n"
+"POT-Creation-Date: 2022-01-01 14:00+0100\n"
+"PO-Revision-Date: 2022-10-18 14:00+0100\n"
+"Last-Translator: Emad Rad <support@edspirit.com>\n"
+"Language-Team: English <support@edspirit.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "AMOUNT PAID"
+msgstr "المبلغ المدفوع"
+
+msgid "About"
+msgstr "حول"
+
+msgid "Activate"
+msgstr "تفعيل"
+
+msgid "Active"
+msgstr "نشط"
+
+msgid "Active Template"
+msgstr "النموذج النشط"
+
+msgid "Add New Field"
+msgstr "أضف حقل جديد"
+
+msgid "Admin Console"
+msgstr "وحدة تحكم المشرف"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "Allow Certification"
+msgstr "السماح بالشهادة"
+
+msgid "Allowed formats: .ico"
+msgstr "التنسيقات المسموح بها: .ico"
+
+msgid "Allowed formats: PNG, JPEG, JPG. Up to 100KB, 1:3 height:width ratio. "
+msgstr ""
+"التنسيقات المسموح بها: PNG ، JPEG ، JPG. ما يصل إلى 100 كيلوبايت ، ارتفاع "
+"بنسبة 1: 3: نسبة العرض."
+
+msgid "Arabic"
+msgstr "اللغة العربية"
+
+msgid "Automatic"
+msgstr "تلقائي"
+
+msgid "CERTIFICATE"
+msgstr "شهادة"
+
+msgid "CERTIFICATION ACTIVE"
+msgstr "تفعيل الشهادة"
+
+msgid "CMS"
+msgstr "استديو الدورات"
+
+msgid "COURSE ID"
+msgstr "معرف الدورة"
+
+msgid "CREATED AT"
+msgstr "تم إنشاؤه في"
+
+msgid "Cancel"
+msgstr "إلغاء"
+
+msgid "Cancel Subscription"
+msgstr "إلغاء الاشتراك"
+
+msgid "Cancel subscription"
+msgstr "إلغاء الاشتراك"
+
+msgid "Cancel your current subscription"
+msgstr "إلغاء اشتراكك الحالي"
+
+msgid "Canceled at:"
+msgstr "تم الإلغاء في:"
+
+msgid "Certificate Content"
+msgstr "محتوى الشهادة"
+
+msgid "Certification"
+msgstr "شهادة"
+
+msgid "Choose certificiate template:"
+msgstr "اختر نموذج الشهادة"
+
+msgid "Close"
+msgstr "غلق"
+
+msgid "Configuration"
+msgstr "إعدادات"
+
+msgid "Configure Certification"
+msgstr "إعداد الشهادة"
+
+msgid "Contact"
+msgstr "اتصل"
+
+msgid "Course information..."
+msgstr "معلومات عن الدورة التدريبية ..."
+
+msgid "Courses"
+msgstr "الدورات"
+
+msgid "Courses and Certificates"
+msgstr "الدورات والشهادات"
+
+msgid "Creator Request"
+msgstr "طلب منشئ"
+
+msgid "Creator Requests"
+msgstr "طلبات منشئ المحتوى"
+
+msgid "Current"
+msgstr "حالي"
+
+msgid "Current Period Started at:"
+msgstr "بدأت الفترة الحالية في:"
+
+msgid "Current Period ends at:"
+msgstr "الفترة الحالية تنتهي في:"
+
+msgid "DISPLAY NAME"
+msgstr "عرض الاسم"
+
+msgid "DNS Configuration"
+msgstr "إعدادات الDNS"
+
+msgid "Dashboard"
+msgstr "لوحة التحكم الرئيسية"
+
+msgid "Day"
+msgstr "يوم"
+
+msgid "Days"
+msgstr "أيام"
+
+msgid "Deactivate"
+msgstr "تعطيل"
+
+msgid "Deactive"
+msgstr "معطل"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Denied"
+msgstr "رفض"
+
+msgid "Designates whether the user can log into this admin site."
+msgstr "يعيّن ما إذا كان يمكن للمستخدم تسجيل الدخول إلى موقع المسؤول هذا."
+
+msgid "Domain Management"
+msgstr "إدارة الدومين"
+
+msgid "Donate"
+msgstr "منح"
+
+msgid "EDIT"
+msgstr "تعديل"
+
+msgid "EMAIL"
+msgstr "البريد الإلكتروني"
+
+msgid "EdSpirit"
+msgstr "Edspirit"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Email address"
+msgstr "عنوان البريد الالكترونى"
+
+msgid "Ended at:"
+msgstr "انتهى في:"
+
+msgid "English"
+msgstr "اللغة الانجليزية"
+
+msgid "Expired"
+msgstr "منتهية الصلاحية"
+
+msgid "Exteral domain already set."
+msgstr "تم تعيين الدومين الخارجي بالفعل."
+
+msgid "Exteral domain set successfully. Please check your email."
+msgstr "تم تعيين الدومين الخارجي بنجاح. من فضلك تفقد بريدك الالكتروني."
+
+msgid "External Domain"
+msgstr "الدومين الخارجي"
+
+msgid "FINALIZED AT"
+msgstr "انتهى في"
+
+msgid "FULL NAME"
+msgstr "الاسم الكامل"
+
+msgid "Failed to cancel subscription"
+msgstr "فشل إلغاء الاشتراك"
+
+msgid "Failed to cancel subscription."
+msgstr "فشل إلغاء الاشتراك."
+
+msgid "Failed to change external domain to for {}. Please contact support."
+msgstr "فشل تغيير الدومين الخارجي لـ {}. يرجى الاتصال بالدعم."
+
+msgid "Failed to retrieve subscription data"
+msgstr "فشل استرداد بيانات الاشتراك"
+
+msgid "Failed to update {} page"
+msgstr "فشل تحديث الصفحة {}"
+
+msgid "Farsi"
+msgstr "الفارسية"
+
+msgid "Favicon Upload"
+msgstr " تحميل الأيقونة المفضلة"
+
+msgid "Financial"
+msgstr "ماليانتهى في"
+
+msgid "Footer"
+msgstr "تذييل"
+
+msgid "Footer Bottom Links"
+msgstr "روابط أسفل التذييل"
+
+msgid "Footer Top Links"
+msgstr "أعلى روابط التذييل"
+
+msgid "French"
+msgstr "اللغة الفرنسية"
+
+msgid "Full name"
+msgstr "الاسم الكامل"
+
+msgid "General"
+msgstr "عام"
+
+msgid "German"
+msgstr "اللغة الألمانية"
+
+msgid "Granted"
+msgstr "تم المنح"
+
+msgid "Honor Code"
+msgstr "ميثاق الشرف"
+
+msgid "Hour"
+msgstr "ساعة"
+
+msgid "Hours"
+msgstr "ساعات"
+
+msgid "INVOICE ID"
+msgstr "معرف الفاتورة"
+
+msgid "Improper external domain. Example: edx.example.com"
+msgstr "الدومين الخارجي غير مناسب. مثال: edx.example.com"
+
+msgid "Inactive Subscription"
+msgstr "اشتراك غير نشط"
+
+msgid "Information"
+msgstr "معلومات"
+
+msgid "Instance Configuration"
+msgstr "اعدادات النموذج"
+
+msgid "Invoice"
+msgstr "فاتورة"
+
+msgid "Invoices"
+msgstr "الفواتيرالفواتير"
+
+msgid "Italian"
+msgstr "اللغة الإيطالية"
+
+msgid "LMS"
+msgstr "بوابة التعليم"
+
+msgid "Language"
+msgstr "لغة"
+
+msgid "Languages"
+msgstr "اللغات"
+
+msgid "Last 24h User Count"
+msgstr "عدد المستخدمين في آخر 24 ساعة"
+
+msgid "Last Month Users Count"
+msgstr "عدد المستخدمين في الشهر الماضي"
+
+msgid "Last Week User Count"
+msgstr "عدد المستخدمين في الأسبوع الماضي"
+
+msgid "Link"
+msgstr "رابط"
+
+msgid "List of available languages"
+msgstr "قائمة اللغات المتاحة"
+
+msgid "Logo"
+msgstr "شعار"
+
+msgid "Logo Upload"
+msgstr "تحميل الشعار"
+
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+msgid "Manage Certificate"
+msgstr "إدارة الشهادة"
+
+msgid "Manage Subscription"
+msgstr "إدارة الاشتراك"
+
+msgid "Management"
+msgstr "إدارة"
+
+msgid "Manual"
+msgstr "يدوي"
+
+msgid "Month"
+msgstr "شهر"
+
+msgid "Months"
+msgstr "شهور"
+
+msgid "N/A"
+msgstr "غير متاح"
+
+msgid "NOTE"
+msgstr "ملحوظة"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Navigation"
+msgstr "التنقل"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "No record found for {}. Please set DNS records as instructed."
+msgstr "لم يتم العثور على سجل لـ {}. يرجى تعيين سجلات DNS حسب التعليمات."
+
+msgid "Note"
+msgstr "ملحوظة"
+
+msgid "Note that the following subdomains are reserved and not allowed:"
+msgstr "لاحظ أن النطاقات الفرعية التالية محجوزة وغير مسموح بها:"
+
+msgid "Org languages updated successfully."
+msgstr "تم تحديث لغات المؤسسة بنجاح."
+
+msgid "Org updated successfully"
+msgstr "تم تحديث المؤسسة بنجاحتم تحديث المؤسسة بنجاح"
+
+msgid "Organization"
+msgstr "منظمة"
+
+msgid "Organization Name"
+msgstr "اسم المنظمة"
+
+msgid "Page"
+msgstr "صفحة"
+
+msgid "Pending"
+msgstr "قيد الانتظار"
+
+msgid "Pending Creator Requests"
+msgstr "طلبات المنشئ المعلقة"
+
+msgid "Permissions"
+msgstr "أذونات"
+
+msgid "Personal info"
+msgstr "معلومات شخصية"
+
+msgid "Plan:"
+msgstr "خطة:"
+
+msgid "Please choose a favicon"
+msgstr "الرجاء اختيار الأيقونة المفضلة"
+
+msgid "Please choose a logo"
+msgstr "الرجاء اختيار شعار."
+
+msgid "Please choose a logo."
+msgstr "الرجاء اختيار شعار."
+
+msgid "Please enter correct org name"
+msgstr "الرجاء إدخال اسم المنظمة الصحيح"
+
+msgid "Please enter correct welcome message"
+msgstr "الرجاء إدخال رسالة الترحيب الصحيحة"
+
+msgid "Please select at least one language."
+msgstr "الرجاء تحديد لغة واحدة على الأقل."
+
+msgid "Please type in cancel subscription to make sure that's what you want."
+msgstr "الرجاء الكتابة فى إلغاء الاشتراك للتأكد من أن هذا ما تريده."
+
+msgid "Please upload a favicon with the formats '.ico'"
+msgstr "يرجى تحميل الأيقونة المفضلة بالتنسيقات \".ico\""
+
+msgid "Please upload a logo with one of the formats '.jpg', '.jpeg', '.png'"
+msgstr "يرجى تحميل شعار بأحد التنسيقات \".jpg\" ، \".jpeg\" ، \".png\""
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Recurring:"
+msgstr "دورى"
+
+msgid ""
+"Reserved external domain. Please follow instructions or contact support."
+msgstr "المجال الخارجي المحجوز. يرجى اتباع التعليمات أو الاتصال بالدعم."
+
+msgid "STAFF STATUS"
+msgstr "حالة الموظفين"
+
+msgid "STATE"
+msgstr "الحالة"
+
+msgid "STATE LAST UPDATED"
+msgstr "بيان آخر تحديث"
+
+msgid "STATUS"
+msgstr "الحالة"
+
+msgid "STRIPE URL"
+msgstr "شريط الرابط"
+
+msgid "SUPERUSER STATUS"
+msgstr "حالة المستخدم المتميز"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Short Platform Description:"
+msgstr "وصف قصير للمنصة:"
+
+msgid "Staff status"
+msgstr "حالة الموظفين"
+
+msgid "Start date:"
+msgstr "تاريخ البدء:"
+
+msgid "State"
+msgstr "الحالة"
+
+msgid "State last updated"
+msgstr "بيان آخر تحديث"
+
+msgid "Static Page Link "
+msgstr "رابط الصفحة الثابت"
+
+msgid "Static Pages"
+msgstr "الصفحات الثابتة"
+
+msgid "Status:"
+msgstr "حالة: "
+
+msgid "Subscription"
+msgstr "الاشتراك"
+
+msgid "Subscription canceled successfully"
+msgstr "تم إلغاء الاشتراك بنجاح"
+
+msgid "Subscription canceled successfully."
+msgstr "تم إلغاء الاشتراك بنجاح."
+
+msgid "Subscription days remaining:"
+msgstr "أيام الاشتراك المتبقية:"
+
+msgid "Subscription not active."
+msgstr "الاشتراك غير نشط."
+
+msgid "Subscription status"
+msgstr "حالة الاشتراك:"
+
+msgid "Subscription status:"
+msgstr "حالة الاشتراك:"
+
+msgid "Superuser status"
+msgstr "حالة المستخدم المتميز"
+
+msgid "Template"
+msgstr "نموذج "
+
+msgid "Template 1"
+msgstr "النموذج 1"
+
+msgid "Template 2"
+msgstr "النموذج 2"
+
+msgid "Terms of Service"
+msgstr "شروط الخدمة"
+
+msgid "The name of your organization"
+msgstr "اسم مؤسستك"
+
+msgid "The welcome message on front page"
+msgstr "رسالة الترحيب على الصفحة الأولى"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "Total Users"
+msgstr "إجمالي المستخدمين"
+
+msgid "Trial"
+msgstr "تجريبى"
+
+msgid "Trial days remaining:"
+msgstr "الأيام التجريبية المتبقية:"
+
+msgid "Trial end:"
+msgstr "نهاية التجربة:"
+
+msgid "Trial start:"
+msgstr "بداية التجربة:"
+
+msgid "Turkish"
+msgstr "التركية"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Type:"
+msgstr "نوع:"
+
+msgid ""
+"URL {} is not valid. Please enter a valid url. For example: "
+"https://about.com"
+msgstr ""
+"رابط {} غير صالح. أدخل رابط صحيح من فضلك. على سبيل المثال: https://about.com"
+
+msgid "USERNAME"
+msgstr "اسم المستخدم"
+
+msgid "Unrequested"
+msgstr "غير مطلوب"
+
+msgid "Update Certificate State"
+msgstr "تحديث حالة الشهادة"
+
+msgid "Update Creator Request"
+msgstr "طلب تحديث المنشئ"
+
+msgid "Update user"
+msgstr "تحديث المستخدم"
+
+msgid "User information..."
+msgstr "بيانات المستخدم.."
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "Value"
+msgstr "قيمة"
+
+msgid "Version"
+msgstr "الإصدار"
+
+msgid "Welcome message"
+msgstr "رسالة ترحيب"
+
+msgid "You are not allowed to change own permissions."
+msgstr "لا يسمح لك لتغيير الأذونات الخاصة."
+
+msgid "You cannot edit the owner's permissions"
+msgstr "لا يمكنك تحرير أذونات المالك"
+
+msgid "\\\"We Hereby\\\" text:"
+msgstr "\\\"نحن هنا\\\" نقر بأن:"
+
+msgid "automatic_mode"
+msgstr "يسمح الوضع التلقائي بإنشاء الشهادات لكل دورة عند إنشائها."
+
+msgid "cancel_subscription_question"
+msgstr ""
+"هل أنت متأكد أنك تريد إلغاء اشتراكك؟ سيتم حذف مؤسستك في نهاية فترة الاشتراك."
+
+msgid "course {} certificate can now be enabled in studio."
+msgstr "يمكن الآن تمكين شهادة الدورة التدريبية {} في الاستوديو."
+
+msgid "course {} certificate is now disabled."
+msgstr "تم تعطيل شهادة الدورة التدريبية {} الآن."
+
+msgid "current"
+msgstr "حالي"
+
+msgid "default"
+msgstr "إفتراضي"
+
+msgid "designated_active"
+msgstr ""
+"يعيّن ما إذا كان يجب معاملة هذا المستخدم على أنه نشط أم لا. قم بإلغاء تحديد "
+"هذا بدلاً من حذف الحسابات."
+
+msgid "designated_permission"
+msgstr "يعيّن أن هذا المستخدم لديه كافة الأذونات دون التنازل عنها صراحةً."
+
+msgid "dns_guid_1"
+msgstr ""
+"بعد شراء الدومين الخاص بك ، يرجى تعيين سجلات DNS التالية باستخدام مزود خدمات"
+" DNS الذي تختاره. (اتصل بالدعم للحصول على مزيد من المعلومات.)"
+
+msgid "page for the instance"
+msgstr "صفحة على سبيل المثال"
+
+msgid "user {} updated successfully."
+msgstr "تم تحديث المستخدم {} بنجاح."
+
+msgid "welcome"
+msgstr "مرحبا"
+
+msgid "{} page updated successfully."
+msgstr "تم تحديث صفحة {} بنجاح."
