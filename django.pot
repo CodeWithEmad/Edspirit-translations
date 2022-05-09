@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-09 20:16+0430\n"
+"POT-Creation-Date: 2022-05-09 22:28+0430\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,7 +20,6 @@ msgstr ""
 #: avid_admin_console/templates/ac-index.html:14
 msgid "welcome"
 msgstr ""
-
 
 #: avid_admin_console/templates/ac-index.html:24
 #: avid_admin_console/templates/management/ac-user-list.html:37
