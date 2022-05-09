@@ -21,6 +21,7 @@ msgstr ""
 msgid "welcome"
 msgstr ""
 
+
 #: avid_admin_console/templates/ac-index.html:24
 #: avid_admin_console/templates/management/ac-user-list.html:37
 msgid "Last 24h User Count"
