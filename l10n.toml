@@ -1,4 +1,4 @@
 [[paths]]
-  reference = "templates/LC_MESSAGES/django.pot"
-  l10n = "{locale}/LC_MESSAGES/django.po"
+  reference = "locales/templates/LC_MESSAGES/django.pot"
+  l10n = "locales/{locale}/LC_MESSAGES/django.po"
   locales = [ "en", "fa", "ar"]
